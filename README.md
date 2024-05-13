@@ -3,10 +3,24 @@
 **Contributors**
 
 > **_Karanjit Saha_**\
+> [LinkedIn](https://www.linkedin.com/in/karanjit-saha-65a02122b/)\
+> [GitHub](https://github.com/KaranjitSaha)
+
 > **_Chinthan Chandra_**\
+> [LinkedIn](https://www.linkedin.com/in/chinthanchandra/)\
+> [GitHub](https://github.com/Chinthan23)
+
 > **_Darshak Jivrajani_**\
+> [LinkedIn](https://www.linkedin.com/in/darshak-jivrajani-296475227/)\
+> [GitHub](https://github.com/Darshak11)
+
 > **_Monjoy Narayan Choudhury_**\
-> **_Tejas Sharma_**
+> [LinkedIn](https://www.linkedin.com/in/monjoy-narayan-choudhury-a424b3200/)\
+> [GitHub](https://github.com/MnCSSJ4x)
+
+> **_Tejas Sharma_**\
+> [LinkedIn](https://www.linkedin.com/in/tejassharma15/)\
+> [GitHub](https://github.com/Tejsharma15)
 
 <h2>Scope of the product</h2>
 
@@ -248,4 +262,4 @@ sensitive patient data and minimizes the risk of unauthorized access.
 
 **API Documentation**
 
-Available on [Postman](https://documenter.getpostman.com/view/21648989/2sA2rCV2H4). 
+Available on [Postman](https://documenter.getpostman.com/view/21648989/2sA2rCV2H4).
