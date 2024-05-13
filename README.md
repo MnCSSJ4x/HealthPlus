@@ -244,6 +244,12 @@ sensitive patient data and minimizes the risk of unauthorized access.
 > 1.  React Native as our familiarity with react can help us prototype screens faster than using other libraries.
 > 2.  React Navigation: which is the equivalent of React-routers for native. In this, we are using the native stack navigator.
 
+> Backend Implementation Details:
+> Our backend leverages Spring Boot for constructing various APIs and ensuring a robust, multi-layered security architecture. Additionally, we've integrated Java's Jasypt library to encrypt sensitive user data, enhancing the security of our system. For graphic processing, particularly SVG images and other formats, we utilize Apache Batik libraries, which support our needs for handling complex visual data.
+
+> Database Configuration:
+> We utilize MySQL as our database solution to store hospital records and user data efficiently. The connection between our backend and the MySQL database is facilitated through the JDBC driver, ensuring reliable data management and integration.
+
 <h2>Codebase</h2>
 
 **Backend**
