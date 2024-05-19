@@ -256,9 +256,9 @@ sensitive patient data and minimizes the risk of unauthorized access.
 
 > • [EMR Service](https://github.com/Tejsharma15/MedicalRecordService)
 >
-> • [Authentication Service](https://github.com/Darshak11/HIS)
+> • [Authentication Service](https://github.com/Darshak11/HIS-Authentication)
 >
-> • [Dashboard Service](https://github.com/Darshak11/HIS-Authentication)
+> • [Dashboard Service](https://github.com/Darshak11/HIS)
 
 **Frontend**
 
